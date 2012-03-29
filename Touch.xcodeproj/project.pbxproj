@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		39CBDB8B1459D15000C1EDF2 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39CBDB8A1459D15000C1EDF2 /* UIKit.framework */; };
+		39CBDB8D1459D15000C1EDF2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39CBDB8C1459D15000C1EDF2 /* Foundation.framework */; };
+		39CBDB8F1459D15000C1EDF2 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 39CBDB8E1459D15000C1EDF2 /* CoreGraphics.framework */; };
+		39CBDB951459D15000C1EDF2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 39CBDB931459D15000C1EDF2 /* InfoPlist.strings */; };
+		39CBDB971459D15000C1EDF2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 39CBDB961459D15000C1EDF2 /* main.m */; };
+		39CBDB9B1459D15000C1EDF2 /* TouchAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 39CBDB9A1459D15000C1EDF2 /* TouchAppDelegate.m */; };
+		39CBDBA31459D1D700C1EDF2 /* View.m in Sources */ = {isa = PBXBuildFile; fileRef = 39CBDBA21459D1D700C1EDF2 /* View.m */; };
+		39CBDBA61459D28200C1EDF2 /* LittleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 39CBDBA51459D28200C1EDF2 /* LittleView.m */; };
+		84AB99C31521FB6E006C77D2 /* bayer-kreuz.png in Resources */ = {isa = PBXBuildFile; fileRef = 84AB99C21521FB6E006C77D2 /* bayer-kreuz.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		39CBDB861459D15000C1EDF2 /* Touch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Touch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		39CBDB8A1459D15000C1EDF2 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		39CBDB8C1459D15000C1EDF2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		39CBDB8E1459D15000C1EDF2 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		39CBDB921459D15000C1EDF2 /* Touch-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Touch-Info.plist"; sourceTree = "<group>"; };
+		39CBDB941459D15000C1EDF2 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		39CBDB961459D15000C1EDF2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		39CBDB981459D15000C1EDF2 /* Touch-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Touch-Prefix.pch"; sourceTree = "<group>"; };
+		39CBDB991459D15000C1EDF2 /* TouchAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TouchAppDelegate.h; sourceTree = "<group>"; };
+		39CBDB9A1459D15000C1EDF2 /* TouchAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TouchAppDelegate.m; sourceTree = "<group>"; };
+		39CBDBA11459D1D700C1EDF2 /* View.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View.h; sourceTree = "<group>"; };
+		39CBDBA21459D1D700C1EDF2 /* View.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View.m; sourceTree = "<group>"; };
+		39CBDBA41459D28200C1EDF2 /* LittleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LittleView.h; sourceTree = "<group>"; };
+		39CBDBA51459D28200C1EDF2 /* LittleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LittleView.m; sourceTree = "<group>"; };
+		84AB99C21521FB6E006C77D2 /* bayer-kreuz.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bayer-kreuz.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		39CBDB831459D15000C1EDF2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39CBDB8B1459D15000C1EDF2 /* UIKit.framework in Frameworks */,
+				39CBDB8D1459D15000C1EDF2 /* Foundation.framework in Frameworks */,
+				39CBDB8F1459D15000C1EDF2 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		39CBDB7B1459D15000C1EDF2 = {
+			isa = PBXGroup;
+			children = (
+				39CBDB901459D15000C1EDF2 /* Touch */,
+				39CBDB891459D15000C1EDF2 /* Frameworks */,
+				39CBDB871459D15000C1EDF2 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		39CBDB871459D15000C1EDF2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				39CBDB861459D15000C1EDF2 /* Touch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		39CBDB891459D15000C1EDF2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				39CBDB8A1459D15000C1EDF2 /* UIKit.framework */,
+				39CBDB8C1459D15000C1EDF2 /* Foundation.framework */,
+				39CBDB8E1459D15000C1EDF2 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		39CBDB901459D15000C1EDF2 /* Touch */ = {
+			isa = PBXGroup;
+			children = (
+				39CBDB991459D15000C1EDF2 /* TouchAppDelegate.h */,
+				39CBDB9A1459D15000C1EDF2 /* TouchAppDelegate.m */,
+				84AB99C21521FB6E006C77D2 /* bayer-kreuz.png */,
+				39CBDBA11459D1D700C1EDF2 /* View.h */,
+				39CBDBA21459D1D700C1EDF2 /* View.m */,
+				39CBDBA41459D28200C1EDF2 /* LittleView.h */,
+				39CBDBA51459D28200C1EDF2 /* LittleView.m */,
+				39CBDB911459D15000C1EDF2 /* Supporting Files */,
+			);
+			path = Touch;
+			sourceTree = "<group>";
+		};
+		39CBDB911459D15000C1EDF2 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				39CBDB921459D15000C1EDF2 /* Touch-Info.plist */,
+				39CBDB931459D15000C1EDF2 /* InfoPlist.strings */,
+				39CBDB961459D15000C1EDF2 /* main.m */,
+				39CBDB981459D15000C1EDF2 /* Touch-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		39CBDB851459D15000C1EDF2 /* Touch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 39CBDB9E1459D15000C1EDF2 /* Build configuration list for PBXNativeTarget "Touch" */;
+			buildPhases = (
+				39CBDB821459D15000C1EDF2 /* Sources */,
+				39CBDB831459D15000C1EDF2 /* Frameworks */,
+				39CBDB841459D15000C1EDF2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Touch;
+			productName = Touch;
+			productReference = 39CBDB861459D15000C1EDF2 /* Touch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		39CBDB7D1459D15000C1EDF2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
+			buildConfigurationList = 39CBDB801459D15000C1EDF2 /* Build configuration list for PBXProject "Touch" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 39CBDB7B1459D15000C1EDF2;
+			productRefGroup = 39CBDB871459D15000C1EDF2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				39CBDB851459D15000C1EDF2 /* Touch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		39CBDB841459D15000C1EDF2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39CBDB951459D15000C1EDF2 /* InfoPlist.strings in Resources */,
+				84AB99C31521FB6E006C77D2 /* bayer-kreuz.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		39CBDB821459D15000C1EDF2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				39CBDB971459D15000C1EDF2 /* main.m in Sources */,
+				39CBDB9B1459D15000C1EDF2 /* TouchAppDelegate.m in Sources */,
+				39CBDBA31459D1D700C1EDF2 /* View.m in Sources */,
+				39CBDBA61459D28200C1EDF2 /* LittleView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		39CBDB931459D15000C1EDF2 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				39CBDB941459D15000C1EDF2 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		39CBDB9C1459D15000C1EDF2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		39CBDB9D1459D15000C1EDF2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		39CBDB9F1459D15000C1EDF2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ke Wang";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Touch/Touch-Prefix.pch";
+				INFOPLIST_FILE = "Touch/Touch-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "95314E71-FD10-4743-BC53-D53516E67EBE";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		39CBDBA01459D15000C1EDF2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Ke Wang";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Touch/Touch-Prefix.pch";
+				INFOPLIST_FILE = "Touch/Touch-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "95314E71-FD10-4743-BC53-D53516E67EBE";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		39CBDB801459D15000C1EDF2 /* Build configuration list for PBXProject "Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39CBDB9C1459D15000C1EDF2 /* Debug */,
+				39CBDB9D1459D15000C1EDF2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		39CBDB9E1459D15000C1EDF2 /* Build configuration list for PBXNativeTarget "Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				39CBDB9F1459D15000C1EDF2 /* Debug */,
+				39CBDBA01459D15000C1EDF2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 39CBDB7D1459D15000C1EDF2 /* Project object */;
+}

@@ -1,0 +1,334 @@
+TTouch
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist Touch/Touch-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist
+cProcessPCH /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth Touch/Touch-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o /Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o /Users/admin/Downloads/Touch/Touch/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o /Users/admin/Downloads/Touch/Touch/View.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o /Users/admin/Downloads/Touch/Touch/LittleView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch normal armv7
+cGenerateDSYMFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch
+cCopyStringsFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj/InfoPlist.strings Touch/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png Touch/IMG_2298.png
+cProcessProductPackaging "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision
+cTouch /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent
+cCodeSign /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F6B5D180000000000000110
+t1332436248
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+c000000004F6A3A5B00000000000001A7
+t1332361819
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004F6A3A5B00000000000001E5
+t1332361819
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F6A3A5D00000000003AE430
+t1332361821
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F6A3A5E000000000052C940
+t1332361822
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F6A3A600000000000798EA0
+t1332361824
+s7966368
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/Touch.LinkFileList
+c000000004F6CCD0D000000000000022A
+t1332530445
+s554
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/PkgInfo
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/admin/Downloads/Touch/Touch/IMG_2298.png
+c000000004F6C69F900000000000037DB
+t1332505081
+s14299
+
+N/Users/admin/Downloads/Touch/Touch/LittleView.m
+c000000004F6CC7B40000000000000462
+t1332529076
+s1122
+
+N/Users/admin/Downloads/Touch/Touch/Touch-Prefix.pch
+c000000004EA999D00000000000000139
+t1319737808
+s313
+
+N/Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m
+c000000004EB18A6800000000000009A2
+t1320258152
+s2466
+
+N/Users/admin/Downloads/Touch/Touch/View.m
+c000000004F6CC9F0000000000000061A
+t1332529648
+s1562
+
+N/Users/admin/Downloads/Touch/Touch/en.lproj/InfoPlist.strings
+c000000004EA999D0000000000000002D
+t1319737808
+s45
+
+N/Users/admin/Downloads/Touch/Touch/main.m
+c000000004EB18A68000000000000015B
+t1320258152
+s347
+
+N/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision
+c000000004F6B26D30000000000001C9E
+t1332422355
+s7326
+
+NTouch/Touch-Info.plist
+c000000004F6CCCF20000000000000509
+t1332530418
+s1289
+
+CBuild AST from /Users/admin/Downloads/Touch/Touch/LittleView.m
+r0
+
+CBuild AST from /Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m
+r0
+
+CBuild AST from /Users/admin/Downloads/Touch/Touch/View.m
+r0
+
+CBuild AST from /Users/admin/Downloads/Touch/Touch/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies213a588d041db541^2444818d041db541^---0#1#0#--18"Check dependencies36"0752BC21-B44D-4ABD-B8CC-D86731840F61-
+
+CCodeSign /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+s354223246.754557
+e354223248.441849
+r1
+xCodeSign
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CodeSign BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.appb64dc18e041db541^e78d8790041db541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/0000000000000000^849"CodeSign BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app    cd /Users/admin/Downloads/Touch    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign a41cc6e1aaa0b3fc92648fb9afcdc87a7bfb83f0 --resource-rules=/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist --entitlements /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app36"84EEE02D-FCD8-4219-9EAC-7FB3CEA4C3EF-
+
+CCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o /Users/admin/Downloads/Touch/Touch/LittleView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354223246.080333
+e354223246.279470
+r1
+xCompileC
+xBuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o
+x/Users/admin/Downloads/Touch/Touch/LittleView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Compile /Users/admin/Downloads/Touch/Touch/LittleView.me7c2148e041db541^9cfb478e041db541^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/admin/Downloads/Touch/Touch/LittleView.m0000000000000000^3209"CompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o Touch/LittleView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Downloads/Touch    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-generated-files.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-own-target-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-all-target-headers.hmap -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-project-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/include -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources/armv7 -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -include /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.d --serialize-diagnostics /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.dia -c /Users/admin/Downloads/Touch/Touch/LittleView.m -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/LittleView.o36"0959F907-9BE3-4480-8ACD-A5D22D6135D3-
+
+CCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o /Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354223246.064685
+e354223246.307789
+r1
+xCompileC
+xBuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o
+x/Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/admin/Downloads/Touch/Touch/TouchAppDelegate.mdba6148e041db541^c4b3588e041db541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m0000000000000000^3245"CompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o Touch/TouchAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Downloads/Touch    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-generated-files.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-own-target-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-all-target-headers.hmap -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-project-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/include -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources/armv7 -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -include /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.d --serialize-diagnostics /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.dia -c /Users/admin/Downloads/Touch/Touch/TouchAppDelegate.m -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/TouchAppDelegate.o36"F8194434-BCC5-4394-A24D-D1A563BE174C-
+
+CCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o /Users/admin/Downloads/Touch/Touch/View.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354223246.079656
+e354223246.261098
+r1
+xCompileC
+xBuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o
+x/Users/admin/Downloads/Touch/Touch/View.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/admin/Downloads/Touch/Touch/View.m8597148e041db541^62d7428e041db541^---0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Users/admin/Downloads/Touch/Touch/View.m0000000000000000^3173"CompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o Touch/View.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Downloads/Touch    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-generated-files.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-own-target-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-all-target-headers.hmap -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-project-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/include -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources/armv7 -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -include /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.d --serialize-diagnostics /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.dia -c /Users/admin/Downloads/Touch/Touch/View.m -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/View.o36"532F9B49-6FF7-4704-9B64-0DBED8449EFF-
+
+CCompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o /Users/admin/Downloads/Touch/Touch/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354223246.064730
+e354223246.223328
+r1
+xCompileC
+xBuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o
+x/Users/admin/Downloads/Touch/Touch/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/admin/Downloads/Touch/Touch/main.maeb8148e041db541^f433398e041db541^---0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Users/admin/Downloads/Touch/Touch/main.m0000000000000000^3173"CompileC BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o Touch/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Downloads/Touch    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-generated-files.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-own-target-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-all-target-headers.hmap -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-project-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/include -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources/armv7 -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -include /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch -MMD -MT dependencies -MF /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.dia -c /Users/admin/Downloads/Touch/Touch/main.m -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/main.o36"91005382-97CD-4796-B9F1-FBF599318719-
+
+CCopyPNGFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png Touch/IMG_2298.png
+s354223246.450159
+e354223246.621979
+r1
+xCopyPNGFile
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png
+xTouch/IMG_2298.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"CopyPNGFile BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png Touch/IMG_2298.png925b738e041db541^473a9f8e041db541^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/Users/admin/Downloads/Touch/Touch/IMG_2298.png0000000000000000^669"CopyPNGFile BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png Touch/IMG_2298.png    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/admin/Downloads/Touch/Touch/IMG_2298.png /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/IMG_2298.png36"BCA17C27-4544-4000-9FDF-BDFFCCCE7F6B-
+
+CCopyStringsFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj/InfoPlist.strings Touch/en.lproj/InfoPlist.strings
+s354223246.450114
+e354223246.474892
+r1
+xCopyStringsFile
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj/InfoPlist.strings
+xTouch/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Touch/en.lproj/InfoPlist.strings535a738e041db541^59337a8e041db541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/admin/Downloads/Touch/Touch/en.lproj/InfoPlist.strings0000000000000000^580"CopyStringsFile BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj/InfoPlist.strings Touch/en.lproj/InfoPlist.strings    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/en.lproj -- Touch/en.lproj/InfoPlist.strings36"622D9F45-3D2B-4AC3-BA3E-AC9CE7476D2C-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist
+s354223245.539195
+e354223245.542268
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xBuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plistbc248a8d041db541^23f7908d041db541^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist000000000080d041^861"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app36"643C3AA4-03BD-456E-A682-ADDEF804BF12-
+
+CGenerateDSYMFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch
+s354223246.399471
+e354223246.430963
+r1
+xGenerateDSYMFile
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generating /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYMa65f668e041db541^93546e8e041db541^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM000000000080d041^620"GenerateDSYMFile BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app.dSYM36"CF32BBEE-EBE5-4968-B4C1-E0F7E589DEED-
+
+CLd /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch normal armv7
+s354223246.326825
+e354223246.381748
+r1
+xLd
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Link /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch310c548e041db541^daca638e041db541^---0#0#0#--1090"Ld BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch normal armv7    cd /Users/admin/Downloads/Touch    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -L/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos -filelist /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Objects-normal/armv7/Touch.LinkFileList -dead_strip -fobjc-arc -miphoneos-version-min=5.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Touch36"63A202C5-2754-43FA-A505-1C975B629D3D-
+
+CProcessInfoPlistFile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist Touch/Touch-Info.plist
+s354223245.539192
+e354223245.545118
+r1
+xProcessInfoPlistFile
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist
+xTouch/Touch-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process Touch/Touch-Info.plist1c268a8d041db541^4303918d041db541^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/admin/Downloads/Touch/Touch/Touch-Info.plist0000000000000000^778"ProcessInfoPlistFile BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist Touch/Touch-Info.plist    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Touch/Touch-Info.plist -genpkginfo /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/ResourceRules.plist -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/Info.plist36"E4922BDD-40E5-4283-A175-0348ADAF8335-
+
+CProcessPCH /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth Touch/Touch-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354223245.566389
+e354223246.036885
+r1
+xProcessPCH
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth
+xTouch/Touch-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Touch/Touch-Prefix.pch0534918d041db541^9b72098e041db541^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/admin/Downloads/Touch/Touch/Touch-Prefix.pch0000000000000000^3104"ProcessPCH BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth Touch/Touch-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/admin/Downloads/Touch    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-generated-files.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-own-target-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-all-target-headers.hmap -iquote /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch-project-headers.hmap -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/include -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources/armv7 -I/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/DerivedSources -F/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.dia -c /Users/admin/Downloads/Touch/Touch/Touch-Prefix.pch -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.pth -MMD -MT dependencies -MF /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/PrecompiledHeaders/Touch-Prefix-gojmljcktyfnmpdbcmixoekuymfx/Touch-Prefix.pch.d36"2AF23795-E0D9-4721-806E-00F4981AED9E-
+
+CProcessPCH /Users/admin/Downloads/Touch/BuildOutput/Touch/Index/PrecompiledHeaders/Touch-Prefix-ekbnkprhmodwojfxxadwgfamwels_ast/Touch-Prefix.pch.pth Touch/Touch-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision
+s354223246.668452
+e354223246.678778
+r1
+xProcessProductPackaging
+x/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection217"ProcessProductPackaging "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision103fab8e041db541^16c3ad8e041db541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision0000000000000000^704"ProcessProductPackaging "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/admin/Library/MobileDevice/Provisioning Profiles/95314E71-FD10-4743-BC53-D53516E67EBE.mobileprovision" -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app/embedded.mobileprovision36"57EE7C04-A116-4D15-A78E-7EA11A771F59-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent
+s354223246.739920
+e354223246.745906
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent758ebd8e041db541^b2f3be8e041db541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent000000000080d041^762"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Intermediates/Touch.build/Debug-iphoneos/Touch.build/Touch.xcent36"AC1644DD-0249-40B7-9E47-7AC317D72858-
+
+CTouch /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+s354223246.698352
+e354223246.729735
+r1
+xTouch
+x/Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Touch /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.appf5d8b28e041db541^afd1ba8e041db541^---0#0#0#--397"Touch BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app    cd /Users/admin/Downloads/Touch    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/admin/Downloads/Touch/BuildOutput/Touch/Build/Products/Debug-iphoneos/Touch.app36"DBA06688-39A3-4504-AFAC-AF5756986C76-
+
